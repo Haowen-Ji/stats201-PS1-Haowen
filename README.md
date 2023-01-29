@@ -5,4 +5,4 @@ I'm Haowen Ji, a senior student in Data Science major at DKU. I'm intereted in t
 ## Project information
 This project is about querying blockchain data with three nodes and querying specific ERC20 and ERC721 tokens.
 ## Course Project Sample
-
+[https://github.com/Haowen-Ji/stats201-PS1-Haowen/blob/main/Problem_Set_1/Haowen_Ji_Spring2023_Problem_Set_1_Demo_Ethereum_Blockchain_API.ipynb]
